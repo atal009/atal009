@@ -5,6 +5,6 @@
 - 📫 How to reach me on my email atalbihari009@gmail.com
 
 <!---
-atal009/atal009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atal Bihari Gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
